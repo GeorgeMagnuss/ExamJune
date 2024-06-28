@@ -10,6 +10,7 @@ Welcome to the Virtual Garage. In this program, you may choose one of the follow
 5 - Exit
 
 Which does the following:
+
 List All cars:
 Displays all cars currently in the garage.
 
