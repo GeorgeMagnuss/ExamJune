@@ -21,7 +21,7 @@ Delete Car:
 Allows you to delete a car from the garage by entering its car number.
 
 Search Car:
-Lets you search for a car by entering a search string that matches either the car's make or number.
+Lets you search for a car by entering a search string that matches either the car's brand or number.
 
 Exit:
 Exits the program.
